@@ -27,15 +27,15 @@ Customer churn costs telecom companies a lot of revenue. This project explores t
 
 ## Setup and Run
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone <https://github.com/SUDHARSAN-2007/telco-churn-analysis>
+cd <https://github.com/SUDHARSAN-2007/telco-churn-analysis>
 pip install -r requirements.txt
 # place WA_Fn-UseC_-Telco-Customer-Churn.csv in this folder
-jupyter notebook YourName_ChurnAnalysis.ipynb
+jupyter notebook ChurnAnalysis.ipynb
 ```
 Run all cells from top to bottom.
 
 ## Key Information
-- Files: `YourName_ChurnAnalysis.ipynb` (code), `requirements.txt`, `README.md`, `YourName_ProjectReport.docx`
+- Files: ChurnAnalysis.ipynb` (code), `requirements.txt`, `README.md`,Churn Analysis ProjectReport.docx
 - Results (metrics, charts) are produced when the notebook is run.
-- Author: YourName | Institution: Your College Name
+- Author: SUDHARSAN G  | Institution:PANIMALAR ENGINEERING  COLLEGE 
